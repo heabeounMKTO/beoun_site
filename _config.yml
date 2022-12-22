@@ -30,7 +30,8 @@ url: "http://beoun.net" # the base hostname & protocol for your site, e.g. http:
 github_username:  heabeounMKTO
 
 # Build settings
-theme: jekyll-theme-console
+# theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console@v0.3.12
 plugins:
   - jekyll-feed
 
