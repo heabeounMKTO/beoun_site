@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title:  "Penis Shooter development blog 1/?"
-date:   2022-11-20 11:30:37 +0700
+date:   2022-10-14 11:30:37 +0700
 categories: PenisShoter development
 permalink: "/penisblog0/"
 author: "heabeoun himself"
@@ -28,3 +28,6 @@ so, the core design of this game (*that i thought up for now*) is:
 I chose [Unity](https://unity.com/) to develop PenisShooter because of 2 reasons:
 
 It is the platform i have the most experience with for game development , the other engine I know is the open source [Cocos Creator](https://www.cocos.com/en/creator) , which is really great for web-based 2D games but really lacking in the 3D department, at least for me, Also since I would probably be working alone, there are alot of unity resources out there that I can refer to in the case I get stuck on trying to make something work.
+
+### The elephant in the room
+I have a somewhat decent experience with programming in unity in general, so as a challenge for myself , I decided to firstly tackle the elephant in the room (at least for me and my naivety), 
