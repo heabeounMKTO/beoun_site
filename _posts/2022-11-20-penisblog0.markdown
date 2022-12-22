@@ -1,0 +1,30 @@
+---
+layout: "post"
+title:  "Penis Shooter development blog 1/?"
+date:   2022-11-20 11:30:37 +0700
+categories: PenisShoter development
+permalink: "penisblog0"
+author: "heabeoun himself"
+---
+**disclaimer**: there is alot of mentions of penis in this blog post
+
+I don't remember how I got the idea to make a multiplayer FPS (*first person shooter*) game, where you play as a penis (it's likely either when I am commuting somewhere or one of those late night discord calls with my friends) , but I've been kicking around that idea for a few weeks at this point so I decided to jump on that idea and make it happen, mind you I've never made/finished a full game before ,only working on a few *"small projects"*toying with ideas here and there but ultimately abandoning it. (let's hope I dont abandon this one as well). so this would be quite a challenge for me.
+
+### The "*core design elements*" 
+because this whole project is a joke that circulates between me and my friends, I think it's only proper that I make it as ridiculous as possible , but still on the "penis" topic of course.
+
+so, the core design of this game (*that i thought up for now*) is:
+
+> - the player is a **penis**
+
+> - everything is penis based, penis gun, penis grenade, penis health (*erection level?*)
+
+> - when a penis dies it ejaculates (*this is a suggestion from someone, who I will not name*)
+
+> - there are multiple penis classes: *`big , small , short , long , stubby etc..`* these are the ideas for now, it is subjected to changes
+
+### Starting the project
+
+I chose [Unity](https://unity.com/) to develop PenisShooter because of 2 reasons:
+
+It is the platform i have the most experience with for game development , the other engine I know is the open source [Cocos Creator](https://www.cocos.com/en/creator) , which is really great for web-based 2D games but really lacking in the 3D department, at least for me, Also since I would probably be working alone, there are alot of unity resources out there that I can refer to in the case I get stuck on trying to make something work.
