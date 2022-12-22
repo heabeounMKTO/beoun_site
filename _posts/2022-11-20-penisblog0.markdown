@@ -3,7 +3,7 @@ layout: "post"
 title:  "Penis Shooter development blog 1/?"
 date:   2022-11-20 11:30:37 +0700
 categories: PenisShoter development
-permalink: "penisblog0"
+permalink: "/penisblog0/"
 author: "heabeoun himself"
 ---
 **disclaimer**: there is alot of mentions of penis in this blog post
