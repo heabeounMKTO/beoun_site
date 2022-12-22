@@ -1,11 +1,14 @@
 ---
-layout: "post"
+layout: "page"
 title:  "Penis Shooter development blog 1/?"
-date:   2022-10-14 11:30:37 +0700
+date:   2022-10-20 11:30:37 +0700
 categories: PenisShoter development
 permalink: "/penisblog0/"
 author: "heabeoun himself"
 ---
+(draft)
+# Penis Shooter development blog 1/?
+![image](\assets\img\penisspray.png){: width="500" }
 **disclaimer**: there is alot of mentions of penis in this blog post
 
 I don't remember how I got the idea to make a multiplayer FPS (*first person shooter*) game, where you play as a penis (it's likely either when I am commuting somewhere or one of those late night discord calls with my friends) , but I've been kicking around that idea for a few weeks at this point so I decided to jump on that idea and make it happen, mind you I've never made/finished a full game before ,only working on a few *"small projects"*toying with ideas here and there but ultimately abandoning it. (let's hope I dont abandon this one as well). so this would be quite a challenge for me.
@@ -30,4 +33,4 @@ I chose [Unity](https://unity.com/) to develop PenisShooter because of 2 reasons
 It is the platform i have the most experience with for game development , the other engine I know is the open source [Cocos Creator](https://www.cocos.com/en/creator) , which is really great for web-based 2D games but really lacking in the 3D department, at least for me, Also since I would probably be working alone, there are alot of unity resources out there that I can refer to in the case I get stuck on trying to make something work.
 
 ### The elephant in the room
-I have a somewhat decent experience with programming in unity in general, so as a challenge for myself , I decided to firstly tackle the elephant in the room (at least for me and my naivety), 
+I have a somewhat decent experience with programming in unity in general, so as a challenge for myself , I decided to firstly tackle the elephant in the room (at least for me and my naivety),  which is netcode. I have never done network programming before, and as with all things , you have to learn about the basics first before you can go in-depth, sure there are frameworks/engines out there like [**Photon**](https://www.photonengine.com/)(that I will be using), that for the most part abstracts away the lower level concepts of networking making it easier to implement multiplayer games, but for me I think at least knowing how the fundementals work is important because it saves so me from so much pain later on when trying to debug issues that usually arise from following tutorials blindly(that is without knowing how anything works).

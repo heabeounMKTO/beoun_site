@@ -4,6 +4,8 @@
 
 layout: home
 ---
->>>>>> ### heabeoun's blog
-![image](\assets\img\jesus2.jpg){: width="110" }
-**​"​​ មេីលគេថែអូន "**
+
+### heabeoun's blog , ​"​​ មេីលគេថែអូន "
+![image](\assets\img\jesus2.jpg){: width="300" }
+***this image is generated with [DreamStudio](https://beta.dreamstudio.ai/home)***
+
