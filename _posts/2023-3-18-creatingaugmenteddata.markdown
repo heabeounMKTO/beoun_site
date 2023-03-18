@@ -32,9 +32,13 @@ def lookForJson(folder):
         jsons.append(Path(os.path.join(folder, file))) # get the full path of the json file
   return jsons # returns a list of all the labelme json files
 ```
-the code above returns a list of json in a specified input folder path ,i.e your labelme image folder.
+---
+the code above returns a list of json from a specified input folder path ,i.e your labelme image folder.
 
 then , we cut the labels from the actual image
+
+---
+
 
 ```
 
