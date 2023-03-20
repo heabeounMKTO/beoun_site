@@ -28,6 +28,7 @@ first of all , we need to setup our folders properly!
 
 
 the code below should cut labels from the **`imgs`** and then put them in the test folder 
+with a random background from **`random`** assigned.
 
 ---
 `test.py`
