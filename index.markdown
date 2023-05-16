@@ -6,6 +6,6 @@ layout: home
 ---
 
 ### heabeoun's blog , ​"​​ មេីលគេថែអូន "
-![image](\assets\img\jesus2.jpg){: width="300" }
+![image](\assets\img\jesus2.png){: width="300" }
 ***this image is generated with [Midjourney](https://www.midjourney.com/app/)***
 
