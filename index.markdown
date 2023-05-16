@@ -7,5 +7,5 @@ layout: home
 
 ### heabeoun's blog , ​"​​ មេីលគេថែអូន "
 ![image](\assets\img\jesus2.jpg){: width="300" }
-***this image is generated with [DreamStudio](https://beta.dreamstudio.ai/home)***
+***this image is generated with [Midjourney](https://www.midjourney.com/app/)***
 
