@@ -129,5 +129,5 @@ With what we learned above we can build our very own table in PostgreSQL to find
 ## More reading, if you are interested in diving into this 
 [Postgis tutorial/demo](https://postgis.net/workshops/postgis-intro/)
 [World Geodetic System, aka what that WGS84 thingy means](https://en.wikipedia.org/wiki/World_Geodetic_System)
-
+[Postgis spatial relationships](http://postgis.net/workshops/postgis-intro/spatial_relationships.html)
 
